@@ -1,0 +1,40 @@
+rojeto desenvolvido em Excel para organizar informações e documentos
+que podem ser necessários durante a preparação da declaração de Imposto
+de Renda da Pessoa Física (IRPF).
+Objetivo
+Criar uma ferramenta simples e amigável para centralizar registros,
+acompanhar documentos e facilitar a conferência dos dados antes do
+preenchimento da declaração nos canais oficiais.
+Funcionalidades
+- Início: instruções de uso e navegação entre as abas.
+- Resumo: consolidação automática dos valores registrados em
+  rendimentos, despesas e bens.
+- Rendimentos: registro de fonte pagadora, tipo de rendimento,
+  valor bruto e imposto retido.
+- Despesas: organização de pagamentos e comprovantes por
+  categoria.
+- Bens e Direitos: registro de bens e comparação de valores entre
+  períodos.
+- Checklist: acompanhamento de documentos e etapas da preparação.
+- Links Úteis: atalhos para páginas oficiais da Receita Federal.
+- Validações de dados: listas suspensas para padronizar categorias
+  e status.
+- Filtros e painéis congelados: facilitam a consulta dos
+  registros.
+Como utilizar
+1. Baixe o arquivo Projeto_Agregador_IRPF.xlsx.
+2. Abra no Microsoft Excel ou em um aplicativo compatível com
+   planilhas.
+3. Acesse a aba Início e siga as orientações.
+4. Cadastre suas informações nas abas correspondentes, começando pela
+   linha 5.
+5. Atualize a Checklist conforme reunir os documentos.
+6. Consulte o Resumo para conferir os totais registrados.
+7. Antes de declarar, confira as regras vigentes para o exercício
+   correto e valide os dados nos canais oficiais da Receita Federal.
+Tecnologias e recursos
+- Microsoft Excel
+- Fórmulas de soma (SUM)
+- Validação de dados e listas suspensas
+- Filtros, formatação condicional visual e navegação por hiperlinks
+- Organização de dados em abas temáticas
